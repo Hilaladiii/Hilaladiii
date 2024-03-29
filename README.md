@@ -2,12 +2,11 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hilal+Adi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4200&lines=Hi+There!+👋;+I'm+Hilal+Adi!;" />
 </h1>
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<br/>
 
 <div align="center">
   
@@ -29,7 +28,6 @@
     <img src="https://skillicons.dev/icons?i=firebase,prisma,mysql,vscode" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
