@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Next Js, Machine Learning**
 
-💬 Ask me about **React, Flutter, Firebase... or anything 
+💬 Ask me about **React, Flutter, Firebase... or anything**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -27,8 +27,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,dart,typescript" />
-    <img src="https://skillicons.dev/icons?i=Flutter,React,nextjs" />
-    <img src="https://skillicons.dev/icons?i=firebase,nextauth" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=firebase,vscode" /><br>
 </div>
 
 <br/>
