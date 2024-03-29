@@ -12,11 +12,9 @@
 <div align="center">
   
  
- 🌱 I’m currently learning **Next Js, Machine Learning**
+ 🌱 I’m currently focusing exploring **Next Js**
 
 💬 Ask me about **React, Flutter, Firebase... or anything**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
 
@@ -38,8 +36,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
  <img alt="snake eating my contributions" src="https://github.com/Hilaladiii/Hilaladiii/blob/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
+    
 </div>
 
 <hr/>
