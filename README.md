@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hilaladiii&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Hilaladiii&theme=dark&hide_border=true" alt="GitHub Streak"/>
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hilaladiii&show_icons=true&theme=dark#gh-dark-mode-only" alt="readme stats" />
   <br/>
