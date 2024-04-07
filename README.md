@@ -1,48 +1,19 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hilaladiii.visitor-badge" />
+# 💫 About Me:
+<h2>Hii i'am hilal adii</h2>
+<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Next js<br>
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4200&lines=Hi+There!+👋;+I'm+Hilal+Adi!;" />
-</h1>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hilal.adii) 
 
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hilaladiii&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hilaladiii&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilaladiii&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Hilaladiii&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<div align="center">
-  
- 
- 🌱 I’m currently focusing exploring **Next Js**
-
-💬 Ask me about **React, Flutter, Firebase... or anything**
-
- </div>
-
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,dart,typescript,flutter,react,nextjs,firebase,prisma,mysql,vscode" />
-     <br>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- <img alt="snake eating my contributions" src="https://github.com/Hilaladiii/Hilaladiii/blob/output/github-contribution-grid-snake-dark.svg" />
-    
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img src="https://streak-stats.demolab.com?user=Hilaladiii&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hilaladiii&show_icons=true&theme=dark#gh-dark-mode-only" alt="readme stats" />
-  <br/>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
