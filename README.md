@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hilal!
 👩🏻‍🎓 Studied Informatics Engineering at the Brawijaya University, Indonesia <br/>
-💭 Currently learning about Mobile Development and Bun! <br/>
+💭 Currently learning more about Mobile Development and Bun! <br/>
 
 
 ## 🌐 Socials:
