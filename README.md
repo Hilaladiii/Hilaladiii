@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hilal.adii) 
-[![Codewars](https://img.shields.io/badge/CodeWars-%23E4405F.svg?logo=CodeWars&logoColor=white)](https://www.codewars.com/users/Hilaladiii/badges/micro) 
+[![Codewars](https://img.shields.io/badge/CodeWars-%23E4405F.svg?logo=CodeWars&logoColor=white)](https://www.codewars.com/users/Hilaladiii/) 
 
 
 # 💻 Tech Stack:
