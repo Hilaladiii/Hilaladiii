@@ -1,4 +1,4 @@
-https://img.shields.io# 👋 Hi, I'm Hilal!
+# 👋 Hi, I'm Hilal!
 👩🏻‍🎓 Studied Informatics Engineering at the Brawijaya University, Indonesia <br/>
 <!--💭 Currently learning about Web3 and Bun! <br/>-->
 
