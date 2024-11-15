@@ -34,7 +34,7 @@
 
 # 📊 GitHub Stats:
   <!-- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">    <img  alt="HilalAdiii's GitHub Stats"  --src="https://awesome-github-stats.azurewebsites.net/user-stats/HilalAdiii?cardType=level&theme=dark&preferLogin=false" />  </a> -->
-  ![Hilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilaladiii&show_icons=true&theme=dark&hide_border=true&include)
+  ![Hilal's GitHub stats](https://github-readme-stats-xi-nine-74.vercel.app/api?username=Hilaladiii&show_icons=true&theme=dark&hide_border=true&include&include_all_commits=true&count_private=true")
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=Hilaladiii&theme=dark&hide_border=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilaladiii&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
