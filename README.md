@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hilal!
-👩🏻‍🎓 "Studied Informatics Engineering at Brawijaya University, Indonesia. Passionate about building robust web applications with a focus on both frontend and backend development. Skilled in creating seamless user experiences using **Next.js** and designing efficient, scalable APIs with **NestJS**. Always eager to learn and implement modern web technologies to solve real-world problems." <br/>
+I am a 5th-semester Informatics Engineering student with a strong interest in frontend and backend development. I specialize in using Next.js for building seamless user interfaces and NestJS for creating efficient, scalable APIs. Passionate about learning and implementing modern web technologies to deliver impactful solutions. <br/>
 <!--💭 Currently learning about Web3 and Bun! <br/>-->
 
 
