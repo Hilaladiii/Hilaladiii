@@ -3,9 +3,11 @@ I am a chill guy at Brawijaya University who is interested in the field of softw
 <!--💭 Currently learning about Web3 and Bun! <br/>-->
 
 
-<!-- ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hilal.adii) 
-[![Codewars](https://img.shields.io/badge/CodeWars-%23E4405F.svg?logo=CodeWars&logoColor=white)](https://www.codewars.com/users/Hilaladiii/) -->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hilal.adii)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abdullah-hilal-adi-sumarno-790841246)   [![My Website](https://img.shields.io/badge/Website-%23117AC9.svg?logo=Google-Chrome&logoColor=white)](https://hilaladiiv2.vercel.app)  
+
+
+
 
 # 💻 Tech Stack:
 
