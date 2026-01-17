@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hilal!
-I am a chill guy at Brawijaya University who is interested in the field of software development and continues to learn about it. <br/>
+I am a chill guy who is interested in the field of software engineering and continues to learn about it. <br/>
 <!--💭 Currently learning about Web3 and Bun! <br/>-->
 
 
