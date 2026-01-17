@@ -4,7 +4,7 @@ I am a chill guy at Brawijaya University who is interested in the field of softw
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hilal.adii)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abdullah-hilal-adi-sumarno-790841246)   [![My Website](https://img.shields.io/badge/Website-%23117AC9.svg?logo=Google-Chrome&logoColor=white)](https://hilaladiiv2.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/abdullah-hilal-adi-sumarno-790841246)
 
 
 
