@@ -30,6 +30,10 @@ I am a chill guy who is interested in the field of software engineering and cont
 
 ---
 
-### 🕒 Weekly Coding Activity (WakaTime)
+### Coding Stats
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 ---
 
