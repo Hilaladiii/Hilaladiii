@@ -5,7 +5,7 @@ I am a chill guy who is interested in the field of software engineering and cont
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abdullah-hilal-adi-sumarno-790841246)
 
----
+<!---
 
 ### 💻 Tech Stack:
 
@@ -29,7 +29,7 @@ I am a chill guy who is interested in the field of software engineering and cont
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 
 ---
-
+-->
 ### Coding Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
