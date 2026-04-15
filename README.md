@@ -32,8 +32,79 @@ I am a chill guy who is interested in the field of software engineering and cont
 
 ### Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 155.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 158 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 37 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1476 commits        ████████░░░░░░░░░░░░░░░░░   31.09 % 
+🌆 Daytime                903 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+🌃 Evening                1401 commits        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+🌙 Night                  968 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Tuesday                  1246 commits        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Wednesday                697 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Thursday                 384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Friday                   469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Saturday                 753 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Sunday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               41 repos            ███████████████░░░░░░░░░░   60.29 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/04/2026 03:41:53 UTC
 <!--END_SECTION:waka-->
 ---
 
