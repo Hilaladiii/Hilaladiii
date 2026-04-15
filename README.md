@@ -37,6 +37,7 @@ I am a chill guy who is interested in the field of software engineering and cont
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) 
 
+### 📊 Weekly Coding Activity (WakaTime)
 
 # 📊 GitHub Stats:
   <!-- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">    <img  alt="HilalAdiii's GitHub Stats"  --src="https://awesome-github-stats.azurewebsites.net/user-stats/HilalAdiii?cardType=level&theme=dark&preferLogin=false" />  </a> -->
