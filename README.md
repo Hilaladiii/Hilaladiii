@@ -32,13 +32,13 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 155.9 kB Used in GitHub's Storage 
  > 
-> 🏆 162 Contributions in the Year 2026
+> 🏆 163 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,6 +46,47 @@ I am a chill guy who is interested in the field of software engineering and cont
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1476 commits        ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌆 Daytime                904 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+🌃 Evening                1403 commits        ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+🌙 Night                  969 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Tuesday                  1246 commits        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Wednesday                700 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Thursday                 385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Friday                   469 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Saturday                 753 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Sunday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               3 hrs 39 mins       ████████████████░░░░░░░░░   62.70 % 
+Go                       2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.99 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+aureus                   5 hrs 49 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    5 hrs 49 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -63,7 +104,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2026 19:51:18 UTC
+ Last Updated on 16/04/2026 19:47:06 UTC
 <!--END_SECTION:waka-->
 ---
 
