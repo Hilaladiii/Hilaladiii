@@ -48,6 +48,46 @@ I am a chill guy who is interested in the field of software engineering and cont
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1510 commits        ████████░░░░░░░░░░░░░░░░░   30.83 % 
+🌆 Daytime                941 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+🌃 Evening                1474 commits        ████████░░░░░░░░░░░░░░░░░   30.09 % 
+🌙 Night                  973 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Tuesday                  1262 commits        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+Wednesday                712 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Thursday                 392 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Friday                   484 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Saturday                 802 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Sunday                   753 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               26 hrs 58 mins      ████████████████████████░   94.53 % 
+Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+
+🔥 Editors: 
+VS Code                  28 hrs 31 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    28 hrs 31 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -65,7 +105,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 20:19:47 UTC
+ Last Updated on 14/05/2026 20:15:54 UTC
 <!--END_SECTION:waka-->
 ---
 
