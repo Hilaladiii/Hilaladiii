@@ -32,13 +32,15 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 170.4 kB Used in GitHub's Storage 
+> 📦 170.5 kB Used in GitHub's Storage 
  > 
-> 🏆 508 Contributions in the Year 2026
+> 🏆 518 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,21 +51,21 @@ I am a chill guy who is interested in the field of software engineering and cont
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1624 commits        ████████░░░░░░░░░░░░░░░░░   30.74 % 
-🌆 Daytime                1067 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-🌃 Evening                1595 commits        ████████░░░░░░░░░░░░░░░░░   30.19 % 
-🌙 Night                  997 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+🌞 Morning                1626 commits        ████████░░░░░░░░░░░░░░░░░   30.62 % 
+🌆 Daytime                1074 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+🌃 Evening                1613 commits        ████████░░░░░░░░░░░░░░░░░   30.38 % 
+🌙 Night                  997 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   562 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Tuesday                  1310 commits        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-Wednesday                757 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Thursday                 429 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Friday                   533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Saturday                 887 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Sunday                   805 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Monday                   563 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Tuesday                  1316 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Wednesday                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 433 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Friday                   547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Saturday                 887 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Sunday                   805 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 ```
 
 
@@ -103,7 +105,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 08:44:56 UTC
+ Last Updated on 24/07/2026 19:55:56 UTC
 <!--END_SECTION:waka-->
 ---
 
