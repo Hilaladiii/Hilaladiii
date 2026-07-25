@@ -32,9 +32,9 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -75,17 +75,17 @@ Sunday                   805 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               46 hrs 15 mins      ████████████████░░░░░░░░░   64.71 % 
-Go                       20 hrs              ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-SQL                      2 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-CSS                      56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Other                    49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+TypeScript               43 hrs 51 mins      ████████████████░░░░░░░░░   65.03 % 
+Go                       18 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+SQL                      2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Other                    49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  71 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  67 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    71 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    67 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +105,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:56 UTC
+ Last Updated on 25/07/2026 19:43:08 UTC
 <!--END_SECTION:waka-->
 ---
 
