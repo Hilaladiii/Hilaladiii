@@ -32,7 +32,7 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-638%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -42,7 +42,7 @@ I am a chill guy who is interested in the field of software engineering and cont
 
 > 📦 172.7 kB Used in GitHub's Storage 
  > 
-> 🏆 777 Contributions in the Year 2026
+> 🏆 780 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@ I am a chill guy who is interested in the field of software engineering and cont
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1978 commits        ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-🌆 Daytime                1398 commits        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-🌃 Evening                2516 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
-🌙 Night                  1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌞 Morning                1978 commits        ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+🌆 Daytime                1398 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+🌃 Evening                2519 commits        █████████░░░░░░░░░░░░░░░░   36.51 % 
+🌙 Night                  1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Tuesday                  1686 commits        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Wednesday                973 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Tuesday                  1686 commits        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Wednesday                973 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 Thursday                 616 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 Friday                   754 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Saturday                 1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Sunday                   1041 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Saturday                 1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Sunday                   1044 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 ```
 
 
@@ -77,17 +77,17 @@ Sunday                   1041 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               17 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   39.87 % 
-Go                       11 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-SQL                      5 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Rust                     5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               16 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   41.87 % 
+Go                       9 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+SQL                      5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Rust                     5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Other                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  44 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  38 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    44 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,7 +113,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:57:06 UTC
+ Last Updated on 23/08/2026 18:56:16 UTC
 <!--END_SECTION:waka-->
 ---
 
