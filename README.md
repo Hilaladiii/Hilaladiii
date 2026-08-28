@@ -32,7 +32,7 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
 
@@ -40,9 +40,9 @@ I am a chill guy who is interested in the field of software engineering and cont
 
 **🐱 My GitHub Data** 
 
-> 📦 172.8 kB Used in GitHub's Storage 
+> 📦 172.6 kB Used in GitHub's Storage 
  > 
-> 🏆 811 Contributions in the Year 2026
+> 🏆 827 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,6 +50,52 @@ I am a chill guy who is interested in the field of software engineering and cont
  > 
 > 🔑 47 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1986 commits        ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+🌆 Daytime                1409 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+🌃 Evening                2565 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌙 Night                  1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Tuesday                  1706 commits        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Wednesday                991 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Thursday                 635 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Friday                   756 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Saturday                 1127 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Sunday                   1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               17 hrs              █████████████░░░░░░░░░░░░   51.98 % 
+Go                       9 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.52 % 
+SQL                      4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Other                    1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+
+🔥 Editors: 
+VS Code                  32 hrs 43 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    32 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -67,7 +113,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:19:24 UTC
+ Last Updated on 28/08/2026 02:16:12 UTC
 <!--END_SECTION:waka-->
 ---
 
