@@ -32,15 +32,15 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-750%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 173.8 kB Used in GitHub's Storage 
+> 📦 173.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,000 Contributions in the Year 2026
  > 
@@ -77,25 +77,25 @@ Sunday                   1259 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       25 hrs 28 mins      ████████████░░░░░░░░░░░░░   47.18 % 
-TypeScript               17 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   32.88 % 
-SQL                      7 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Other                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-JSON                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Go                       21 hrs 54 mins      ███████████░░░░░░░░░░░░░░   45.01 % 
+TypeScript               15 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   32.67 % 
+SQL                      6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Other                    1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JSON                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-VS Code                  53 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  48 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    53 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    48 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 26 mins (26.75%)
+⏱ AI Coding Time: 14 hrs 26 mins (29.67%)
 
-✍️ 1,121 lines written by AI, 15,649 lines written by hand (6.68% AI-written)
+✍️ 1,121 lines written by AI, 13,811 lines written by hand (7.51% AI-written)
 
 🔤 228,854,830 Input Tokens, 2,889,736 Output Tokens
 
@@ -109,10 +109,10 @@ GLM                      0 lines             ░░░░░░░░░░░�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.68% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 7.51% of written lines came from AI
 📚 Verbose Prompter — average 5,292 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 94.71% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +132,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:05:53 UTC
+ Last Updated on 10/09/2026 21:03:50 UTC
 <!--END_SECTION:waka-->
 ---
 
