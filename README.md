@@ -32,17 +32,17 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-775%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 174.4 kB Used in GitHub's Storage 
+> 📦 174.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,037 Contributions in the Year 2026
+> 🏆 1,040 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@ I am a chill guy who is interested in the field of software engineering and cont
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2428 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-🌆 Daytime                1861 commits        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-🌃 Evening                4158 commits        ███████████░░░░░░░░░░░░░░   43.48 % 
+🌞 Morning                2428 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+🌆 Daytime                1861 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+🌃 Evening                4161 commits        ███████████░░░░░░░░░░░░░░   43.50 % 
 🌙 Night                  1116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   986 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Tuesday                  2189 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Tuesday                  2189 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
 Wednesday                1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Thursday                 946 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Friday                   1062 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Friday                   1065 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 Saturday                 1577 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Sunday                   1438 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Sunday                   1438 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 ```
 
 
@@ -77,17 +77,17 @@ Sunday                   1438 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       9 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.68 % 
-TypeScript               8 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.18 % 
-SQL                      6 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Go                       11 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   39.65 % 
+TypeScript               9 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.20 % 
+SQL                      7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  28 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    25 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    28 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,7 +113,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:35:39 UTC
+ Last Updated on 18/09/2026 21:06:46 UTC
 <!--END_SECTION:waka-->
 ---
 
