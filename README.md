@@ -32,7 +32,7 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-775%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2059%20mins-blue?style=flat)
 
@@ -42,7 +42,7 @@ I am a chill guy who is interested in the field of software engineering and cont
 
 > 📦 174.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,040 Contributions in the Year 2026
+> 🏆 1,046 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@ I am a chill guy who is interested in the field of software engineering and cont
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2428 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-🌆 Daytime                1861 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-🌃 Evening                4161 commits        ███████████░░░░░░░░░░░░░░   43.50 % 
-🌙 Night                  1116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+🌞 Morning                2459 commits        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+🌆 Daytime                1901 commits        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+🌃 Evening                4283 commits        ███████████░░░░░░░░░░░░░░   43.85 % 
+🌙 Night                  1124 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   986 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Tuesday                  2189 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Wednesday                1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Thursday                 946 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Friday                   1065 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Saturday                 1577 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Sunday                   1438 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Monday                   1006 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Tuesday                  2224 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Wednesday                1394 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Thursday                 974 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Friday                   1087 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Saturday                 1615 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Sunday                   1467 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 ```
 
 
@@ -77,17 +77,17 @@ Sunday                   1438 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       11 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   39.65 % 
-TypeScript               9 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.20 % 
-SQL                      7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Go                       12 hrs 1 min        ██████████░░░░░░░░░░░░░░░   40.85 % 
+TypeScript               10 hrs 46 mins      █████████░░░░░░░░░░░░░░░░   36.56 % 
+SQL                      6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,7 +113,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:06:46 UTC
+ Last Updated on 19/09/2026 20:56:00 UTC
 <!--END_SECTION:waka-->
 ---
 
