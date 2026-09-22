@@ -32,7 +32,7 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2059%20mins-blue?style=flat)
 
@@ -77,17 +77,17 @@ Sunday                   1474 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       15 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.16 % 
-TypeScript               10 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   34.40 % 
-SQL                      4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Go                       15 hrs 9 mins       ████████████░░░░░░░░░░░░░   49.64 % 
+TypeScript               10 hrs 58 mins      █████████░░░░░░░░░░░░░░░░   35.93 % 
+SQL                      4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  30 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    30 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,7 +113,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:08:45 UTC
+ Last Updated on 22/09/2026 21:33:57 UTC
 <!--END_SECTION:waka-->
 ---
 
