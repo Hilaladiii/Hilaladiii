@@ -32,15 +32,15 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-846%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 174.6 kB Used in GitHub's Storage 
+> 📦 174.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,134 Contributions in the Year 2026
  > 
@@ -77,17 +77,17 @@ Sunday                   1520 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       20 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.86 % 
-TypeScript               13 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
-SQL                      6 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Go                       21 hrs 4 mins       ████████████░░░░░░░░░░░░░   49.98 % 
+TypeScript               14 hrs              ████████░░░░░░░░░░░░░░░░░   33.21 % 
+SQL                      6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Other                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  42 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    41 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    42 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -113,7 +113,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:52:10 UTC
+ Last Updated on 02/10/2026 22:27:29 UTC
 <!--END_SECTION:waka-->
 ---
 
