@@ -36,13 +36,13 @@ I am a chill guy who is interested in the field of software engineering and cont
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 175.5 kB Used in GitHub's Storage 
+> 📦 175.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,220 Contributions in the Year 2026
+> 🏆 1,223 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@ I am a chill guy who is interested in the field of software engineering and cont
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2541 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-🌆 Daytime                2021 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-🌃 Evening                4639 commits        ███████████░░░░░░░░░░░░░░   44.77 % 
-🌙 Night                  1161 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+🌞 Morning                2544 commits        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+🌆 Daytime                2021 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+🌃 Evening                4641 commits        ███████████░░░░░░░░░░░░░░   44.76 % 
+🌙 Night                  1162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1157 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Tuesday                  2312 commits        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Wednesday                1466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Monday                   1159 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Tuesday                  2316 commits        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Wednesday                1466 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Thursday                 1048 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Friday                   1124 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Saturday                 1699 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Sunday                   1556 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Friday                   1124 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Saturday                 1699 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Sunday                   1556 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 ```
 
 
@@ -77,23 +77,41 @@ Sunday                   1556 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       11 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.06 % 
-TypeScript               8 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.92 % 
-SQL                      4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Go                       9 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.27 % 
+TypeScript               5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+SQL                      3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 44 mins      ███████████████████████░░   91.34 % 
+Opencode Cli             1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 💻 Operating System: 
-Linux                    23 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 7 mins (10.38%)
+
+✍️ 1,100 lines written by AI, 3,875 lines written by hand (22.11% AI-written)
+
+🔤 775,486 Input Tokens, 185,854 Output Tokens
+
+💵 $70.09 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 21 AI Prompts
+
+DeepSeek                 1,103 lines         █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 22.11% of written lines came from AI
+📝 Concise Prompter — average 468 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 82.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +131,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:56:24 UTC
+ Last Updated on 13/10/2026 23:01:52 UTC
 <!--END_SECTION:waka-->
 ---
 
