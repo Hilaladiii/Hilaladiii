@@ -38,9 +38,9 @@ I am a chill guy who is interested in the field of software engineering and cont
 
 **🐱 My GitHub Data** 
 
-> 📦 176.2 kB Used in GitHub's Storage 
+> 📦 176.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,276 Contributions in the Year 2026
+> 🏆 1,277 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,18 +75,18 @@ Sunday                   1702 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-TypeScript               4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-Markdown                 3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-SQL                      2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Text                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+TypeScript               7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.60 % 
+Go                       4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Markdown                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+SQL                      2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Text                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 🔥 Editors: 
-Opencode Cli             10 hrs 6 mins       █████████████░░░░░░░░░░░░   52.93 % 
-VS Code                  8 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.07 % 
+Opencode Cli             15 hrs 32 mins      █████████████████░░░░░░░░   68.70 % 
+VS Code                  7 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
 
 💻 Operating System: 
-Linux                    19 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    22 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +106,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 13:40:49 UTC
+ Last Updated on 16/10/2026 21:29:03 UTC
 <!--END_SECTION:waka-->
 ---
 
