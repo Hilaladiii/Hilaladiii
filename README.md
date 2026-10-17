@@ -32,15 +32,17 @@ I am a chill guy who is interested in the field of software engineering and cont
 -->
 ### Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2020%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 176.3 kB Used in GitHub's Storage 
+> 📦 176.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,277 Contributions in the Year 2026
+> 🏆 1,315 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,21 +53,21 @@ I am a chill guy who is interested in the field of software engineering and cont
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2725 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-🌆 Daytime                2214 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-🌃 Evening                5408 commits        ████████████░░░░░░░░░░░░░   46.77 % 
-🌙 Night                  1215 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+🌞 Morning                2750 commits        ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+🌆 Daytime                2235 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌃 Evening                5432 commits        ████████████░░░░░░░░░░░░░   46.67 % 
+🌙 Night                  1221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1325 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Tuesday                  2520 commits        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Wednesday                1665 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 1230 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Friday                   1253 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Saturday                 1867 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Sunday                   1702 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Monday                   1325 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Tuesday                  2520 commits        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Wednesday                1665 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Thursday                 1236 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Friday                   1271 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Saturday                 1914 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Sunday                   1707 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 ```
 
 
@@ -75,18 +77,18 @@ Sunday                   1702 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.60 % 
-Go                       4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Markdown                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-SQL                      2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Text                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+TypeScript               7 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.07 % 
+Go                       4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Markdown                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+SQL                      2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Text                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-Opencode Cli             15 hrs 32 mins      █████████████████░░░░░░░░   68.70 % 
-VS Code                  7 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Opencode Cli             15 hrs 32 mins      ██████████████████░░░░░░░   70.94 % 
+VS Code                  6 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
 
 💻 Operating System: 
-Linux                    22 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +108,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hilaladiii/Hilaladiii/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:29:03 UTC
+ Last Updated on 17/10/2026 20:50:31 UTC
 <!--END_SECTION:waka-->
 ---
 
